@@ -1,0 +1,6 @@
+order_id,order_date,customer,product,amount
+S004,2024-06-02,Diana,Widget C,30.0
+S005,2024-06-02,Alice,Widget B,100.0
+S001,2024-06-01,Alice,Widget A,75.0
+S002,2024-06-01,Bob,Widget B,50.0
+S003,2024-06-01,Charlie,Widget A,150.0
