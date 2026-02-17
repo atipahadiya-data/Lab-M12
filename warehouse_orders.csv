@@ -1,0 +1,14 @@
+order_id,order_date,customer,product,amount
+1,2024-06-01,Alice,Widget A,75.0
+2,2024-06-01,Bob,Widget B,50.0
+3,2024-06-02,Charlie,Widget A,150.0
+4,2024-06-02,Diana,Widget C,30.0
+5,2024-06-03,Alice,Widget B,100.0
+6,2024-06-03,Bob,Widget A,75.0
+7,2024-06-04,Eve,Widget C,60.0
+8,2024-06-04,Charlie,Widget B,50.0
+9,2024-06-05,Diana,Widget A,150.0
+10,2024-06-05,Alice,Widget C,90.0
+11,2024-06-06,Frank,Widget A,200.0
+12,2024-06-06,Alice,Widget B,75.0
+13,2024-06-07,Bob,Widget C,45.0
